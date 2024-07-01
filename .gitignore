@@ -1,0 +1,13 @@
+/target/classes/com/books/read/LiterAlura/service/ApiConsumption.class
+/target/classes/application.properties
+/target/classes/com/books/read/LiterAlura/models/Author.class
+/target/classes/com/books/read/LiterAlura/models/AuthorData.class
+/target/classes/com/books/read/LiterAlura/repositories/AuthorRepository.class
+/target/classes/com/books/read/LiterAlura/models/Book.class
+/target/classes/com/books/read/LiterAlura/models/BookData.class
+/target/classes/com/books/read/LiterAlura/repositories/BookRepository.class
+/target/classes/com/books/read/LiterAlura/service/DataConverterI.class
+/target/classes/com/books/read/LiterAlura/service/DataConverterIImpl.class
+/target/classes/com/books/read/LiterAlura/LiterAluraApplication.class
+/target/classes/com/books/read/LiterAlura/main/Main.class
+/target/classes/com/books/read/LiterAlura/models/Results.class
